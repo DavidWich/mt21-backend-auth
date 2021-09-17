@@ -4,6 +4,8 @@
 
 This project simulates an auth service.
 
+NOTE: THIS PROJECT CLEARS AN EXISTING MONGODB DATABASE ON PORT 27017.
+
 ### Usage
 
 Download with:
